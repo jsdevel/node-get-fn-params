@@ -1,7 +1,7 @@
 {
   "name": "get-fn-params",
   "main": "lib/get-fn-params.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return function parameter names.",
   "author": "Joseph Spencer",
   "scripts": {
