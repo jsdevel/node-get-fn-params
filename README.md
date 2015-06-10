@@ -5,7 +5,7 @@
 var getFnParams = require('get-fn-params');
 
 console.log(getFnParams(function(a,b,c){})); // ['a', 'b', 'c']
-console.log(getFnParams('(a,b,c))');         // ['a', 'b', 'c']
+console.log(getFnParams('(a,b,c)'));         // ['a', 'b', 'c']
 
 ```
 
